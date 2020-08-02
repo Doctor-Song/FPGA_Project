@@ -69,4 +69,10 @@
 ---
 
 ### 作品照片、视频
+终项目功能展示（以识别数字6为例子）
 
+![DemoImage](./images/DemoImage.jpg) 
+
+数字识别演示视频
+
+[演示视频](./images/DemoVideo.mp4)
